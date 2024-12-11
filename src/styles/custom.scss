@@ -300,3 +300,30 @@ body{
 
 
 //Footer
+
+footer{
+  background-color: $primary;
+  width: 1920px;
+  height: 125px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  gap: 10px;
+
+  div{
+    text-align: center;
+    width: 1140px;
+    height: 25px;
+    padding-right: 15px;
+    padding-left: 15px;
+    gap: 50px;
+
+    p{
+      text-align: center;
+      height: 25px;
+      font-weight: 400;
+      font-size: 16px;
+      line-height: 25px;
+      
+    }
+  }
+}
