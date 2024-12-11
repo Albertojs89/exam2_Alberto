@@ -1,0 +1,23 @@
+@import "bootstrap/scss/bootstrap";
+
+$primary:#7036BA;
+
+body{
+  width: 1920px;
+  margin: 0 auto;
+}
+
+.section-1{
+  width: 1920px;
+  height: 800px;
+  background-color: $primary;
+
+
+  .foto-pesas{
+    display: block;
+    width: 946px;
+    height: 800px;
+    left: 974px;
+    
+  }
+}
